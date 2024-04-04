@@ -1,7 +1,6 @@
 ### Hello! I'm Gustavo Mariano 👋
 
 - 🔭 I work as a frontend.
-- 🌱 I'm studying React.
 
     <picture>
       <source 
